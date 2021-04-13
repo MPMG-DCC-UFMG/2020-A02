@@ -1,2 +1,2 @@
 # A02
-Arquitetura Confiança Zero
+Projeto arquitetural para armazenamento de dados
